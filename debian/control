@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP861.h
-Description: CP861 (VGA Code Page 861) font for DisplayCore
+Description: CP861 (VGA Code Page 861)

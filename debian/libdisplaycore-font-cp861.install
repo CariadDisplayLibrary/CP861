@@ -1,2 +1,2 @@
-CP861.cpp libraries/DisplayCore/CP861
-CP861.h libraries/DisplayCore/CP861
+src libraries/DisplayCore/CP861
+library.properties libraries/DisplayCore/CP861

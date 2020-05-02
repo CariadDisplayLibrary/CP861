@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::CP861 
 
-![CP861](https://raw.githubusercontent.com/DisplayCore/CP861/master/Preview/CP861.png)
+![CP861](https://raw.githubusercontent.com/Cariad/CP861/master/Preview/CP861.png)
 
